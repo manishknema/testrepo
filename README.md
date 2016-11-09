@@ -15,10 +15,10 @@ This is test repository for learning markdown :)
 check my [blogpost][1]
 
 
-` void main() 
-{
-  printf("Hello world");
-}`
+` 	void main() 
+	{
+		printf("Hello world");
+	}`
 # testrepo
 
 [1]: http://techuniqe.blogspot.in/ "BigBytes"
