@@ -12,4 +12,9 @@ This is test repository for learning markdown :)
 > dog
 > ##Help him
 
+check my [blogpost][1]
+
+
 # testrepo
+
+[1]: http://techuniqe.blogspot.in/ "BigBytes"
